@@ -32,5 +32,8 @@ love with one of his female classmates as she begins dating his rebellious best 
 1. **Stranger Things** :grin:
 
    ![Stranger things](https://github.com/codespls/app-dev/assets/153616581/819c5460-ee90-4fc0-a980-b6ad68dce38f)
+   
 2. **Black Summer** :scream:
+
+   ![Black Summer](https://github.com/codespls/app-dev/assets/153616581/f47d2755-910a-46a5-9771-de9afe165ac2)
  
