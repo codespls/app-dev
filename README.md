@@ -1,4 +1,4 @@
-##### My Favorite Movies:
+##### My Favorite Movies :movie_camera::
 
 1. **Titanic** (*1997 Film*)
 
@@ -28,7 +28,7 @@ love with one of his female classmates as she begins dating his rebellious best 
 
 
 
-##### My Favorite Series:
+##### My Favorite Series :video_camera::
 
 1. **Stranger Things** :grin:
 
