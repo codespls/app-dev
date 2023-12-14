@@ -20,7 +20,7 @@ love with one of his female classmates as she begins dating his rebellious best 
 
 4. **Tootsie** (*1982*)
 
-   *The film tells the story of a talented but volatile actor whose reputation for being difficult drives him to adopt a new identity as a woman to land a job*
+   *The film tells the story of a talented but volatile actor whose reputation for being difficult drives him to adopt a new identity as a woman to land a job*.
 
     *Link to the movie*: [Tootsie (1982)](https://www.imdb.com/title/tt0084805/)
 
