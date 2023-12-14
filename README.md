@@ -7,7 +7,9 @@ star as members of different social classes who fall in love during the ship's m
 
     *Link to the movie*: [Titanic (1997 Film)](https://www.imdb.com/title/tt0120338/)
 
-2. **The Last American Virgin** (*1982*)
+    ![Titanic](https://github.com/codespls/app-dev/assets/153616581/6a92b5b5-c181-4ea1-97ba-3b539c755503)
+
+3. **The Last American Virgin** (*1982*)
 
    *A remake of Davidson's 1978 Israeli film Lemon Popsicle, it follows a Los Angeles high school student who, while attempting to lose his virginity, falls in 
 love with one of his female classmates as she begins dating his rebellious best friend*.
