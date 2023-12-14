@@ -30,5 +30,7 @@ love with one of his female classmates as she begins dating his rebellious best 
 #### My Favorite Series:
 
 1. **Stranger Things** :grin:
+
+   ![Stranger things](https://github.com/codespls/app-dev/assets/153616581/819c5460-ee90-4fc0-a980-b6ad68dce38f)
 2. **Black Summer** :scream:
-3. 
+ 
