@@ -29,4 +29,6 @@ love with one of his female classmates as she begins dating his rebellious best 
 
 #### My Favorite Series:
 
-1. 
+1. **Stranger Things** :grin:
+2. **Black Summer** :scream:
+3. 
