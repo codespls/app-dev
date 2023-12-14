@@ -43,6 +43,8 @@ love with one of his female classmates as she begins dating his rebellious best 
 
 4. **Start-Up** :computer:
 
+   ![Start up](https://github.com/codespls/app-dev/assets/153616581/1b5bee48-571d-42fe-9894-4317355bf5de)
+
    
 
    
