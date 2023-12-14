@@ -37,7 +37,9 @@ love with one of his female classmates as she begins dating his rebellious best 
 
    ![Black Summer](https://github.com/codespls/app-dev/assets/153616581/f47d2755-910a-46a5-9771-de9afe165ac2)
 
-3. **Itaewon Class**
+3. **Itaewon Class** :stew:
+
+   ![Itaewon Class](https://github.com/codespls/app-dev/assets/153616581/0ae501b1-7bdd-44e5-8584-ffedd819aec7)
 
    
  
