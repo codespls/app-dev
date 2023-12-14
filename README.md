@@ -24,6 +24,8 @@ love with one of his female classmates as she begins dating his rebellious best 
 
     *Link to the movie*: [Tootsie (1982)](https://www.imdb.com/title/tt0084805/)
 
+    ![Tootsie](https://github.com/codespls/app-dev/assets/153616581/ac6a8a9d-0fe8-4434-9cb0-74b81879a133)
+
 
 #### My Favorite Series:
 
